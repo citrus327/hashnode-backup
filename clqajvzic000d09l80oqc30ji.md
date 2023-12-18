@@ -1,6 +1,6 @@
 ---
 title: "Wsl2 中使用网络代理配置"
-datePublished: Mon Dec 18 2023 06:44:13 GMT+0000 (Coordinated Universal Time)
+datePublished: Wed Oct 19 2022 16:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: clqajvzic000d09l80oqc30ji
 slug: wsl2
 tags: wsl
