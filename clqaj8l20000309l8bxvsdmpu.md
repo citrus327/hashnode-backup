@@ -2,7 +2,7 @@
 title: "2019 年底面试题整理"
 datePublished: Tue Nov 26 2019 16:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: clqaj8l20000309l8bxvsdmpu
-slug: 2019
+slug: 2019-interview-questions
 tags: interview, javascript
 
 ---
