@@ -1,5 +1,5 @@
 ---
-title: "2020 年年终总结"
+title: "2020年 年终总结"
 datePublished: Wed Dec 30 2020 16:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: clqajd97e000308jr4dxuhpzr
 slug: 2020
