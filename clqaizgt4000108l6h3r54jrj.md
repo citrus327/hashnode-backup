@@ -1,6 +1,6 @@
 ---
 title: "rollup 打包 _export is not defined 问题解决方案"
-datePublished: Mon Dec 18 2023 06:18:56 GMT+0000 (Coordinated Universal Time)
+datePublished: Tue Oct 13 2020 16:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: clqaizgt4000108l6h3r54jrj
 slug: rollup-export-is-not-defined
 tags: javascript, rollup
