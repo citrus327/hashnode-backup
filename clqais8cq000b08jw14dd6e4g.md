@@ -7,6 +7,8 @@ tags: javascript
 
 ---
 
+在项目中使用基于 airbnb 的 lint 规则，但配置完 alias 后，出现无法跳转，import/no-resolved 规则报错等问题，调研几个小时，最终得出了解决方案，在此记录分享。
+
 ## 方案
 
 关于跳到引入文件位置的问题：
