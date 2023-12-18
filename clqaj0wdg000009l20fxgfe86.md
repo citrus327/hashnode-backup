@@ -1,6 +1,6 @@
 ---
 title: "Object.defineProperty 的一点想法和解读"
-datePublished: Mon Dec 18 2023 06:20:03 GMT+0000 (Coordinated Universal Time)
+datePublished: Mon Oct 15 2018 16:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: clqaj0wdg000009l20fxgfe86
 slug: objectdefineproperty
 tags: javascript
