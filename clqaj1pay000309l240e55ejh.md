@@ -1,6 +1,6 @@
 ---
 title: "记一次 Electron 开发全过程"
-datePublished: Mon Dec 18 2023 06:20:40 GMT+0000 (Coordinated Universal Time)
+datePublished: Sat Sep 14 2019 16:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: clqaj1pay000309l240e55ejh
 slug: electron
 
