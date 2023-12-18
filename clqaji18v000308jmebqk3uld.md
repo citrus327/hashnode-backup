@@ -1,5 +1,5 @@
 ---
-title: "2019 年年终总结"
+title: "2019年 年终总结"
 datePublished: Mon Dec 30 2019 16:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: clqaji18v000308jmebqk3uld
 slug: 2019
