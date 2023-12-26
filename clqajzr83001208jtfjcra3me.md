@@ -133,6 +133,6 @@ simple-schema-form具备最基本的：
     
 3. 喝好喝的酒，听好听的音乐
     
-4. 要做的：[https://blog.hophop.work/random-crap](https://github.com/citrus327/simple-schema-form)
+4. 要做的：[一些](https://blog.hophop.work/records)
     
 5. 记录精酿： [https://untappd.com/user/Citrus327](https://github.com/citrus327/simple-schema-form)
