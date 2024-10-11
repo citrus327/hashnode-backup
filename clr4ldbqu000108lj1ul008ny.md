@@ -3,7 +3,6 @@ title: "Rust match in JavaScript"
 datePublished: Mon Jan 08 2024 07:18:47 GMT+0000 (Coordinated Universal Time)
 cuid: clr4ldbqu000108lj1ul008ny
 slug: rust-match-in-javascript
-tags: javascript, rust
 
 ---
 
